@@ -25,7 +25,7 @@ site_build_date = "2022-02-12T19:00+08:00"
 author = "JiaSswee"
 email = "jiashiwei678@gmail.com"
 author_homepage = "https://www.829658.xyz"
-description = "只坚持一种正义。我的正义。"
+description = "摸鱼中……"
 key_words = ['Maverick', 'JiaSswee', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
@@ -78,6 +78,11 @@ social_links = [
         "name": "Weibo",
         "url": "https://weibo.com/6613404686",
         "icon": "gi gi-weibo"
+    },
+    {
+        "name": "Telegram",
+        "url": "https://t.me/jiasswee",
+        "icon": "gi gi-telegram"
     }
 ]
 
