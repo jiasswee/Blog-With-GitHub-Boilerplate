@@ -19,7 +19,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "JiaSswee的博客"
+site_name = "JiaSswee的Blog"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2022-02-12T19:00+08:00"
 author = "JiaSswee"
