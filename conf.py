@@ -30,6 +30,11 @@ key_words = ['Maverick', 'JiaSswee', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
+        "name": "JiaSswee的碎碎念",
+        "url": "https://blog.829658.xyz",
+        "brief": "JiaSswee的公开日记本"
+    },
+    {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
         "brief": "🏄‍ Go My Own Way."
@@ -61,17 +66,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/JiaSswee",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/jiasswee",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/6613404686",
         "icon": "gi gi-weibo"
     }
 ]
